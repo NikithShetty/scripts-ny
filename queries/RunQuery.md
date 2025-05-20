@@ -1,0 +1,1 @@
+clickhouse-client -h 10.6.155.14 -u default --ask-password --queries-file <file>.sql --format Parquet > output/gps-dump.pq
