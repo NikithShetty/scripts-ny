@@ -1,0 +1,11 @@
+**/input/
+**/output/
+**/tmp/
+**/logs/
+**/cache/
+**/data/
+**/models/
+**/notebooks/
+**/tests/
+**/scripts/
+**/utils/
